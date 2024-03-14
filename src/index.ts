@@ -5,7 +5,7 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
     name: 'Sui',
     decimals: 9,
     symbol: 'SUI',
-    type: '0x2',
+    type: '0x2::sui::SUI',
   },
   {
     name: 'FUD',
