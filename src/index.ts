@@ -222,8 +222,8 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
   {
     decimals: 9,
     chain: 'FTM',
-    name: 'Millie',
-    symbol: 'wWFTM',
+    name: 'wWFTM',
+    symbol: 'WFTM',
     bridge: 'wormhole',
     type: '0x6081300950a4f1e2081580e919c210436a1bed49080502834950d31ee55a2396::coin::COIN',
   },

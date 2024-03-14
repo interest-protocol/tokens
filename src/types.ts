@@ -11,7 +11,7 @@ export type Chain =
 export type Bridge = 'wormhole' | 'celer';
 
 export interface Token {
-  name: string;
+  name?: string;
   chain?: Chain;
   symbol: string;
   bridge?: Bridge;
