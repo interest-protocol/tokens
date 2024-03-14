@@ -171,7 +171,7 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
     symbol: 'WAVAX',
     name: 'wWAVAX',
     bridge: 'wormhole',
-    type: '0xb7844e289a8410e50fb3ca48d69eb9cf29e27d223ef90353fe1bd8e27ff8f3f8::coin::COIN',
+    type: '0x1e8b532cca6569cab9f9b9ebc73f8c13885012ade714729aa3b450e0339ac766::coin::COIN',
   },
   {
     decimals: 9,
