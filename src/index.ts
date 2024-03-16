@@ -64,9 +64,9 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
   {
     decimals: 9,
     chain: 'ETH',
+    name: 'cWETH',
     symbol: 'WETH',
     bridge: 'celer',
-    name: 'cWETH',
     type: '0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_weth_coin::CELER_WETH_COIN',
   },
   {
