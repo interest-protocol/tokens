@@ -10,6 +10,26 @@ export type Chain =
 
 export type Bridge = 'wormhole' | 'celer';
 
+export interface Socials {
+  x?: string;
+  telegram?: string;
+  discord?: string;
+  website?: string;
+  github?: string;
+  docs?: string;
+}
+
+export type TokenKind =
+  | 'DeFi'
+  | 'Meme'
+  | 'Layer1'
+  | 'Layer2'
+  | 'NFT'
+  | 'SocialFi'
+  | 'GameFi'
+  | 'StableCoin'
+  | 'LST';
+
 export interface Token {
   name?: string;
   chain?: Chain;
@@ -17,4 +37,8 @@ export interface Token {
   bridge?: Bridge;
   decimals: number;
   type: `0x${string}`;
+  logoUrl?: string;
+  socials?: Socials;
+  kind?: TokenKind;
+  coinMetadata?: string;
 }

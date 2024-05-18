@@ -1,6 +1,6 @@
 {
   "name": "@interest-protocol/sui-tokens",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A set of tokens strict listed on Interest Protocol Sui products.",
   "src": "src/lib/index.ts",
   "main": "dist/index.js",
@@ -32,5 +32,6 @@
     "package.json",
     "README",
     "dist"
-  ]
+  ],
+  "packageManager": "pnpm@9.1.0+sha512.67f5879916a9293e5cf059c23853d571beaf4f753c707f40cb22bed5fb1578c6aad3b6c4107ccb3ba0b35be003eb621a16471ac836c87beb53f9d54bb4612724"
 }
