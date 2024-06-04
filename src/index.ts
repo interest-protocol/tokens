@@ -53,7 +53,6 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
       'https://strapi-dev.scand.app/uploads/volo_SUI_Logo_f28ed9c6a1.png',
     kind: 'LST',
   },
-
   {
     decimals: 9,
     symbol: 'NAVX',
@@ -111,6 +110,12 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
     decimals: 5,
     symbol: 'FUD',
     type: '0x76cb819b01abed502bee8a702b4c2d547532c12f25001c9dea795a5e631c26f1::fud::FUD',
+  },
+  {
+    name: 'KOTO',
+    decimals: 0,
+    symbol: 'KOTO',
+    type: '0xa99166e802527eeb5439cbda12b0a02851bf2305d3c96a592b1440014fcb8975::koto::KOTO',
   },
   {
     decimals: 9,
