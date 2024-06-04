@@ -115,6 +115,7 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
     name: 'KOTO',
     decimals: 0,
     symbol: 'KOTO',
+    logoUrl: 'https://sm.xyz/images/koto.webp',
     type: '0xa99166e802527eeb5439cbda12b0a02851bf2305d3c96a592b1440014fcb8975::koto::KOTO',
   },
   {
