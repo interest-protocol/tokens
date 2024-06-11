@@ -215,6 +215,14 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
     type: '0x30a644c3485ee9b604f52165668895092191fcaf5489a846afa7fc11cdb9b24a::spam::SPAM',
   },
   {
+    name: 'Pum Pup',
+    symbol: 'PUP',
+    decimals: 9,
+    logoUrl:
+      'https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/PumPup.png/public',
+    type: '0x980ec1e7d5a3d11c95039cab901f02a044df2d82bc79d99b60455c02524fad83::pup::PUP',
+  },
+  {
     name: 'rincel',
     symbol: 'RINCEL',
     decimals: 8,
