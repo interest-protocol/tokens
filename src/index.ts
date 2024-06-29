@@ -215,6 +215,14 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
     type: '0x30a644c3485ee9b604f52165668895092191fcaf5489a846afa7fc11cdb9b24a::spam::SPAM',
   },
   {
+    name: 'Dripward',
+    symbol: 'DRIP',
+    decimals: 9,
+    coinMetadata:
+      '0x45ebabeefe292a9423f6c0f0211223917047f7f44785afcca1aca82871f2afd4',
+    type: '0x9eed28fc98688a799fe51aa6ed39b851bd09d950fc785b2d7c9f543796254631::drip::DRIP',
+  },
+  {
     name: 'rincel',
     symbol: 'RINCEL',
     decimals: 8,
