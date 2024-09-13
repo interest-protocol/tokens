@@ -128,12 +128,6 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
   },
   {
     decimals: 9,
-    name: 'MOVE',
-    symbol: 'MOVE',
-    type: '0x648f9eab1434c056d509ad857fb657ac170528798d771f7eb1edc35639e3e75c::movecoin::MOVECOIN',
-  },
-  {
-    decimals: 9,
     name: 'Sacabam',
     symbol: 'SCB',
     type: '0x9a5502414b5d51d01c8b5641db7436d789fa15a245694b24aa37c25c2a6ce001::scb::SCB',
@@ -336,18 +330,6 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
     name: 'wUSDCm',
     bridge: 'wormhole',
     type: '0xcf72ec52c0f8ddead746252481fb44ff6e8485a39b803825bde6b00d77cdb0bb::coin::COIN',
-  },
-  {
-    decimals: 9,
-    name: 'MartyParty',
-    symbol: 'MARTYPARTY',
-    type: '0x16b382624391a9fc9b02c983dc3e363c97638e16e0ec5365995c9d1fef085e60::martyparty::MARTYPARTY',
-  },
-  {
-    decimals: 9,
-    name: 'Millie',
-    symbol: 'MILLIE',
-    type: '0x2d79d5911998b695ca4dcf15a0e850e3029d169d127a007887c5d57e98c87ec8::millie::MILLIE',
   },
   {
     decimals: 9,
