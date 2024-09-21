@@ -119,6 +119,18 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
     type: '0x76cb819b01abed502bee8a702b4c2d547532c12f25001c9dea795a5e631c26f1::fud::FUD',
   },
   {
+    name: 'aaa cat',
+    decimals: 6,
+    symbol: 'AAA',
+    type: '0xd976fda9a9786cda1a36dee360013d775a5e5f206f8e20f84fad3385e99eeb2d::aaa::AAA',
+  },
+  {
+    name: 'ARTFI',
+    decimals: 9,
+    symbol: 'ARTFI',
+    type: '0x706fa7723231e13e8d37dad56da55c027f3163094aa31c867ca254ba0e0dc79f::artfi::ARTFI',
+  },
+  {
     name: 'KOTO',
     decimals: 0,
     symbol: 'KOTO',
