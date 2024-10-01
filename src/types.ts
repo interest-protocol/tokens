@@ -8,7 +8,7 @@ export type Chain =
   | 'AVAX' // name suffix [x]
   | 'MATIC'; // name suffix [m]
 
-export type Bridge = 'wormhole' | 'celer';
+export type Bridge = 'wormhole' | 'sui';
 
 export interface Socials {
   x?: string;
