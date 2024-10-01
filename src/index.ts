@@ -28,7 +28,7 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
   },
   {
     decimals: 8,
-    name: 'ETH',
+    name: 'sETH',
     chain: 'ETH',
     symbol: 'ETH',
     bridge: 'sui',
