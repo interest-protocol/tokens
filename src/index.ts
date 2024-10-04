@@ -95,7 +95,7 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
   },
   {
     decimals: 6,
-    name: 'Eomoji',
+    name: 'Emoji',
     symbol: 'Emoji',
     type: '0x07ab9ba99abd9af0d687ae55079601192be5a12d1a21c8c4cd9f1a17519111e0::emoji::EMOJI',
   },
