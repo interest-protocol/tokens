@@ -98,6 +98,7 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
     name: 'Emoji',
     symbol: 'Emoji',
     type: '0x07ab9ba99abd9af0d687ae55079601192be5a12d1a21c8c4cd9f1a17519111e0::emoji::EMOJI',
+    logoUrl: 'https://api.movepump.com/uploads/1000348334_6e63a74967.jpg',
   },
   {
     decimals: 6,
