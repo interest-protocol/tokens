@@ -120,6 +120,13 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
     kind: 'LST',
   },
   {
+    name: 'Suiba Inu',
+    symbol: 'SUIB',
+    decimals: 9,
+    type: '0xed4504e791e1dad7bf93b41e089b4733c27f35fde505693e18186c2ba8e2e14b::suib::SUIB',
+    logoUrl: 'https://www.suibacoin.com/suiba.svg'
+  },
+  {
     decimals: 8,
     chain: 'BSC',
     symbol: 'USDC',
