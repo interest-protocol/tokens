@@ -264,6 +264,13 @@ export const STRICT_LIST: ReadonlyArray<Token> = [
     type: '0x980ec1e7d5a3d11c95039cab901f02a044df2d82bc79d99b60455c02524fad83::pup::PUP',
   },
   {
+    decimals: 6,
+    name: 'Oscar The Octopus',
+    symbol: 'OCTO',
+    logoUrl: 'https://api.movepump.com/uploads/DALLA_E_2024_09_14_20_36_43_A_cute_cartoonish_octopus_designed_as_a_profile_picture_The_octopus_has_a_round_friendly_face_with_big_adorable_eyes_and_a_cheerful_smile_It_is_pr_b57590d63d.webp',
+    type: '0x4b6d48afff2948c3ccc67191cf0ef175637472b007c1a8601fa18e16e236909c::octo::OCTO',
+  },
+  {
     name: 'BLUB',
     symbol: 'BLUB',
     decimals: 2,
