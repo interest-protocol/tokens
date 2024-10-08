@@ -9,6 +9,7 @@
     "declaration": true,
     "module": "nodenext",
     "outDir": "dist",
+    "resolveJsonModule": true,
     "moduleResolution": "nodenext"
   },
   "exclude": ["**/node_modules/**", "**/dist/**", "**/__test__/**", "**/*.config.*"]
