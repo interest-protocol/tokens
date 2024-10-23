@@ -508,13 +508,6 @@
     "logoUrl": "https://api.movepump.com/uploads/blue_6681fdd102.jpg"
   },
   {
-    "name": "Blue eyed dog",
-    "decimals": 6,
-    "type": "0x53b7015c996f22c026fa320cff2110002771e55dd36307221c2a0f473107869b::blue::BLUE",
-    "symbol": "BLUE",
-    "logoUrl": "https://api.movepump.com/uploads/blue_6681fdd102.jpg"
-  },
-  {
     "name": "Sui Trump",
     "decimals": 6,
     "type": "0xcf7153e281bb3e53ccf8a1e8e218779c1ed7a57ac90e58495271ac57d2d23af4::suitrump::SUITRUMP",
