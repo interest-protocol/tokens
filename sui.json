@@ -103,6 +103,13 @@
     "logoUrl": "https://api.movepump.com/uploads/1000348334_6e63a74967.jpg"
   },
   {
+    "decimals": 9,
+    "name": "suibeaver",
+    "symbol": "DAM",
+    "type": "0xaf3aae4940a248739ce4964857381fc3f3149a6d05375bfbb2118592907e3bbb::dam::DAM",
+    "logoUrl": "https://staticsui.s3.us-east-1.amazonaws.com/suibever_sui.jpeg"
+  },
+  {
     "decimals": 6,
     "chain": "SOL",
     "symbol": "USDC",
