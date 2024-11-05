@@ -246,13 +246,6 @@
     "type": "0xa99166e802527eeb5439cbda12b0a02851bf2305d3c96a592b1440014fcb8975::koto::KOTO"
   },
   {
-    "name": "SUIBEAVER",
-    "decimals": 9,
-    "symbol": "DAM",
-    "logoUrl": "https://staticsui.s3.us-east-1.amazonaws.com/suibever_sui.jpeg",
-    "type": "0xaf3aae4940a248739ce4964857381fc3f3149a6d05375bfbb2118592907e3bbb::dam::DAM"
-  },
-  {
     "name": "SUI BULL",
     "decimals": 6,
     "symbol": "BULL",
