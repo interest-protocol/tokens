@@ -1,6 +1,6 @@
 {
   "name": "@interest-protocol/sui-tokens",
-  "version": "4.1.0",
+  "version": "4.1.1",
   "description": "A set of tokens strict listed on Interest Protocol Sui products.",
   "src": "src/index.ts",
   "main": "dist/src/index.js",
