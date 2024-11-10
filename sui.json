@@ -274,6 +274,13 @@
     "type": "0xc0ba93a810adb498900c82bb6f7c16ca3046dfa7b6f364ec985595fdeb1ee9ad::suimon::SUIMON"
   },
   {
+    "name": "SuiNS Token",
+    "decimals": 6,
+    "symbol": "NS",
+    "logoUrl": "https://token-image.suins.io/icon.svg",
+    "type": "0x5145494a5f5100e645e4b0aa950fa6b68f614e8c59e17bc5ded3495123a79178::ns::NS"
+  },
+  {
     "name": "SNOWY",
     "decimals": 6,
     "symbol": "SNWY",
