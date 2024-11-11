@@ -42,6 +42,14 @@
   },
   {
     "decimals": 9,
+    "name": "Spring Staked SUI",
+    "symbol": "sSUI",
+    "type": "0x83556891f4a0f233ce7b05cfe7f957d4020492a34f5405b2cb9377d060bef4bf::spring_sui::SPRING_SUI",
+    "logoUrl": "https://suilend-assets.s3.us-east-2.amazonaws.com/lst.png",
+    "kind": "LST"
+  },
+  {
+    "decimals": 9,
     "name": "haSUI",
     "symbol": "haSUI",
     "type": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
