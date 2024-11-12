@@ -23,6 +23,13 @@
     "logoUrl": "https://images.deepbook.tech/icon.svg"
   },
   {
+    "name": "SuiNS Token",
+    "decimals": 6,
+    "symbol": "NS",
+    "logoUrl": "https://token-image.suins.io/icon.svg",
+    "type": "0x5145494a5f5100e645e4b0aa950fa6b68f614e8c59e17bc5ded3495123a79178::ns::NS"
+  },
+  {
     "decimals": 6,
     "chain": "ETH",
     "name": "wUSDCe",
@@ -280,13 +287,6 @@
     "symbol": "SUIMON",
     "logoUrl": "https://api.movepump.com/uploads/photo_2024_10_25_21_09_46_24683d0d06.jpg",
     "type": "0xc0ba93a810adb498900c82bb6f7c16ca3046dfa7b6f364ec985595fdeb1ee9ad::suimon::SUIMON"
-  },
-  {
-    "name": "SuiNS Token",
-    "decimals": 6,
-    "symbol": "NS",
-    "logoUrl": "https://token-image.suins.io/icon.svg",
-    "type": "0x5145494a5f5100e645e4b0aa950fa6b68f614e8c59e17bc5ded3495123a79178::ns::NS"
   },
   {
     "name": "SNOWY",
