@@ -317,13 +317,6 @@
     "type": "0xdc9b462697876ff4c680e59b3756ac39a6899cfbc355a6880c60e01c8930b3cc::ronda::RONDA"
   },
   {
-    "name": "Super Suiyan",
-    "decimals": 6,
-    "symbol": "SUIYAN",
-    "logoUrl": "https://r.turbos.finance/icon/1730995174149.png",
-    "type": "0xe0fbaffa16409259e431b3e1ff97bf6129641945b42e5e735c99aeda73a595ac::suiyan::SUIYAN"
-  },
-  {
     "name": "ZenFrogs",
     "decimals": 6,
     "symbol": "ZEN",
