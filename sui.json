@@ -112,6 +112,13 @@
   },
   {
     "decimals": 6,
+    "name": "Super Suiyan",
+    "symbol": "SUIYAN",
+    "type": "0xe0fbaffa16409259e431b3e1ff97bf6129641945b42e5e735c99aeda73a595ac::suiyan::SUIYAN",
+    "logoUrl": "https://r.turbos.finance/icon/1730995174149.png"
+  },
+  {
+    "decimals": 6,
     "name": "Emoji",
     "symbol": "Emoji",
     "type": "0x07ab9ba99abd9af0d687ae55079601192be5a12d1a21c8c4cd9f1a17519111e0::emoji::EMOJI",
