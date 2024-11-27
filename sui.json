@@ -118,6 +118,13 @@
     "logoUrl": "https://r.turbos.finance/icon/1730995174149.png"
   },
   {
+    "decimals": 9,
+    "name": "LOFI",
+    "symbol": "LOFI",
+    "type": "0xf22da9a24ad027cccb5f2d496cbe91de953d363513db08a3a734d361c7c17503::LOFI::LOFI",
+    "logoUrl": "https://i.ibb.co/fM8QZXh/LOFI-PFP.png"
+  },
+  {
     "decimals": 6,
     "name": "Emoji",
     "symbol": "Emoji",
