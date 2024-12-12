@@ -142,6 +142,20 @@
     "logoUrl": "https://r.turbos.finance/icon/1730995174149.png"
   },
   {
+    "decimals": 6,
+    "name": "Suilend",
+    "symbol": "SEND",
+    "type": "0xb45fcfcc2cc07ce0702cc2d229621e046c906ef14d9b25e8e4d25f6e8763fef7::send::SEND",
+    "logoUrl": "https://suilend-assets.s3.us-east-2.amazonaws.com/SEND/SEND.svg"
+  },
+  {
+    "decimals": 9,
+    "name": "Bluefin",
+    "symbol": "BLUE",
+    "type": "0xe1b45a0e641b9955a20aa0ad1c1f4ad86aad8afb07296d4085e349a50e90bdca::blue::BLUE",
+    "logoUrl": "https://bluefin.io/images/square.png"
+  },
+  {
     "decimals": 9,
     "name": "LOFI",
     "symbol": "LOFI",
