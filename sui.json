@@ -157,6 +157,13 @@
   },
   {
     "decimals": 9,
+    "name": "Trevin Staked SUI",
+    "symbol": "trevinSUI",
+    "type": "0x502867b177303bf1bf226245fcdd3403c177e78d175a55a56c0602c7ff51c7fa::trevin_sui::TREVIN_SUI",
+    "logoUrl": "https://suilend-assets.s3.us-east-2.amazonaws.com/springsui/trevinSui.png"
+  },
+  {
+    "decimals": 9,
     "name": "GRASS",
     "symbol": "GRASS",
     "type": "0x6ad7368bf6bbe077cfd30adbc07037767596bc922934d2908027f2ab092c7530::grass::GRASS",
