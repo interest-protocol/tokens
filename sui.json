@@ -425,6 +425,13 @@
     "type": "0x2cff601fe16f622fd6203f8f64bef4e68d687f51f4d06f13c2bbba17cb84c87e::stash::STASH"
   },
   {
+    "name": "Double Up Sui",
+    "decimals": 9,
+    "symbol": "UPSUI",
+    "logoUrl": "https://www.doubleup.fun/Diamond_Only.png",
+    "type": "0xe68fad47384e18cd79040cb8d72b7f64d267eebb73a0b8d54711aa860570f404::upsui::UPSUI"
+  },
+  {
     "decimals": 9,
     "name": "Sacabam",
     "symbol": "SCB",
