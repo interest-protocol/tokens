@@ -157,6 +157,13 @@
   },
   {
     "decimals": 9,
+    "name": "BluefiCapo The Mafia",
+    "symbol": "CAPO",
+    "type": "0x6b42e2f4cd5b74c737258b3589a3a09397bb012bda6183f99a87294ecaa8504e::capo::CAPO",
+    "logoUrl": "https://fun-be.7k.fun/api/file-upload/0b0a84fee104a06b0eb71fc437e0cae7blob"
+  },
+  {
+    "decimals": 9,
     "name": "Trevin Staked SUI",
     "symbol": "trevinSUI",
     "type": "0x502867b177303bf1bf226245fcdd3403c177e78d175a55a56c0602c7ff51c7fa::trevin_sui::TREVIN_SUI",
