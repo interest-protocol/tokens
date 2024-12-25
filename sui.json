@@ -383,6 +383,13 @@
     "type": "0x5ce7473cb090f37e3dd073931b512a1c2a7d635abdeb4d7cc8460da95d7dbd90::sog::SOG"
   },
   {
+    "name": "Goonies",
+    "decimals": 6,
+    "symbol": "GOON",
+    "logoUrl": "https://r.turbos.finance/icon/1734047960624.png",
+    "type": "0xc31be4b73d3352373c9e2d99e8620944f414b24407495b1d0c9f5628e2e86104::goon::GOON"
+  },
+  {
     "name": "Ronda On Sui",
     "decimals": 6,
     "symbol": "RONDA",
