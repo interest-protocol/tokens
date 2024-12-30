@@ -143,6 +143,13 @@
   },
   {
     "decimals": 6,
+    "name": "Aya Asagiri",
+    "symbol": "AYA",
+    "type": "0x8e9187b49143e6071d8bdee63e34224a8e79fdaa6207d2d2ed54007c45936e0b::aya::AYA",
+    "logoUrl": "https://api.movepump.com/uploads/aya_with_sui_tear_aa38eb3d00.png"
+  },
+  {
+    "decimals": 6,
     "name": "Suilend",
     "symbol": "SEND",
     "type": "0xb45fcfcc2cc07ce0702cc2d229621e046c906ef14d9b25e8e4d25f6e8763fef7::send::SEND",
