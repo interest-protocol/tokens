@@ -49,6 +49,14 @@
   },
   {
     "decimals": 9,
+    "name": "Tether by Sui Bridge",
+    "chain": "ETH",
+    "symbol": "suiUSDT",
+    "bridge": "sui",
+    "type": "0x3e8ef5e52c47a96c4cd0d05472aff75c293d0e52d0ef1d63119cbdd8be4404d3::suiusdt::SUIUSDT"
+  },
+  {
+    "decimals": 9,
     "name": "Spring Staked SUI",
     "symbol": "sSUI",
     "type": "0x83556891f4a0f233ce7b05cfe7f957d4020492a34f5405b2cb9377d060bef4bf::spring_sui::SPRING_SUI",
