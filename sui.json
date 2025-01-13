@@ -433,6 +433,27 @@
     "type": "0xdc9b462697876ff4c680e59b3756ac39a6899cfbc355a6880c60e01c8930b3cc::ronda::RONDA"
   },
   {
+    "name": "Bucket Token (BUT)",
+    "decimals": 9,
+    "symbol": "BUT",
+    "logoUrl": "https://aqua-natural-grasshopper-705.mypinata.cloud/ipfs/QmUKAX4PME9Wb9VU6CMJPisNysaVKZNKpiB3gtMVVZTfjt",
+    "type": "0xbc858cb910b9914bee64fff0f9b38855355a040c49155a17b265d9086d256545::but::BUT"
+  },
+  {
+    "name": "AL1CE AGENT (ALICE)",
+    "decimals": 9,
+    "symbol": "ALICE",
+    "logoUrl": "https://agent-alice.xyz/alice.gif",
+    "type": "0x0e975ca68a7cad7607271c173c784d34aaaeb1116e4887901a8bafef5732c6bf::alice::ALICE"
+  },
+  {
+    "name": "SroomAI DAO (SHR0)",
+    "decimals": 9,
+    "symbol": "SHR",
+    "logoUrl": "https://suidaos.com/logo/shro.png",
+    "type": "0x16ab6a14d76a90328a6b04f06b0a0ce952847017023624e0c37bf8aa314c39ba::shr::SHR"
+  },
+  {
     "name": "ZenFrogs",
     "decimals": 6,
     "symbol": "ZEN",
