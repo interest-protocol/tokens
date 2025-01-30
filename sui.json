@@ -335,6 +335,13 @@
     "logoUrl": "https://api.movepump.com/uploads/IMG_7395_2_123d3c8b60.PNG"
   },
   {
+    "name": "DAPY",
+    "decimals": 9,
+    "symbol": "DAPY",
+    "logoUrl": "https://d1fvsuv3rrz9o2.cloudfront.net/dogs/party_dressed.png",
+    "type": "0x23e99e646a4071609a2957d0b7c7bac73eaefc2f94640e9d8d54e4ab77f8cd6e::dapy::DAPY"
+  },
+  {
     "name": "Frogg Ratt",
     "symbol": "FRATT",
     "decimals": 2,
