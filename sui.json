@@ -643,6 +643,13 @@
     "type": "0x2f91d1afdb521c878f662592bf1b5c399b6c4b884a367639f4ba91e72783ac67::mwin_series_1::MWIN_SERIES_1"
   },
   {
+    "name": "WIN",
+    "symbol": "WIN",
+    "decimals": 9,
+    "logoUrl": "https://winx.io/WIN.svg",
+    "type": "0xe6b9e1033c72084ad01db37c77778ca53b9c4ebb263f28ffbfed39f4d5fd5057::win::WIN"
+  },
+  {
     "decimals": 6,
     "name": "Oscar The Octopus",
     "symbol": "OCTO",
