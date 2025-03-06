@@ -602,6 +602,13 @@
     "type": "0xe32d3ebafa42e6011b87ef1087bbc6053b499bf6f095807b9013aff5a6ecd7bb::coin::COIN"
   },
   {
+    "name": "AZUR CRYPTUS",
+    "symbol": "AZUR",
+    "decimals": 9,
+    "logoUrl": "https://api.interestlabs.io/files/738441ed31ef7f906d274feb7cc1e9d34360bf1b279b4ea2.jpg",
+    "type": "0xf72368851fb9d28049932d845887b5a4701fdd18d9d90989c55b910933cfc453::azur::AZUR"
+  },
+  {
     "name": "SPAM",
     "symbol": "SPAM",
     "decimals": 4,
