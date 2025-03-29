@@ -37,6 +37,13 @@
     "type": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL"
   },
   {
+    "name": "wWAL Token",
+    "decimals": 9,
+    "symbol": "wWAL",
+    "logoUrl": "https://interestprotocol.infura-ipfs.io/ipfs/QmPLCVWv7citJSc813NbcbZnRSXAEJ4BWVKq4zK8pPVEWq",
+    "type": "0xb1b0650a8862e30e3f604fd6c5838bc25464b8d3d827fbd58af7cb9685b832bf::wwal::WWAL"
+  },
+  {
     "decimals": 6,
     "chain": "ETH",
     "name": "wUSDCe",
