@@ -62,12 +62,11 @@
     "type": "0xd0e89b2af5e4910726fbcd8b8dd37bb79b29e5f83f7491bca830e94f7f226d29::eth::ETH"
   },
   {
-    "decimals": 9,
-    "name": "Tether by Sui Bridge",
-    "chain": "ETH",
-    "symbol": "suiUSDT",
-    "bridge": "sui",
-    "type": "0x3e8ef5e52c47a96c4cd0d05472aff75c293d0e52d0ef1d63119cbdd8be4404d3::suiusdt::SUIUSDT"
+    "name": "sbUSDT",
+    "symbol": "sbUSDT",
+    "decimals": 6,
+    "type": "0x375f70cf2ae4c00bf37117d0c85a2c71545e6ee05c4a5c7d282cd66a4504b068::usdt::USDT",
+    "logoUrl": "https://bridge-assets.sui.io/usdt.png"
   },
   {
     "decimals": 9,
