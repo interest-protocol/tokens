@@ -164,6 +164,13 @@
   },
   {
     "decimals": 9,
+    "name": "Haedal Protocol",
+    "symbol": "HAEDAL",
+    "type": "0x3a304c7feba2d819ea57c3542d68439ca2c386ba02159c740f7b406e592c62ea::haedal::HAEDAL",
+    "logoUrl": "https://node1.irys.xyz/Rp80fmqZS3qBDnfyxyKEvc65nVdTunjOG3NY8T6AjpI"
+  },
+  {
+    "decimals": 9,
     "name": "MOOME",
     "symbol": "MOOME",
     "type": "0x80f9b6215ae18ed1a77f5d5153c4327fd48e17dbbcd12cde06b94dd2b95e3b18::moome::MOOME",
