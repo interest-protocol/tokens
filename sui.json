@@ -171,6 +171,13 @@
   },
   {
     "decimals": 9,
+    "name": "AlphaFi Staked SUI",
+    "symbol": "stSUI",
+    "type": "0xd1b72982e40348d069bb1ff701e634c117bb5f741f44dff91e472d3b01461e55::stsui::STSUI",
+    "logoUrl": "https://images.alphafi.xyz/stSUI.png"
+  },
+  {
+    "decimals": 9,
     "name": "DeLorean",
     "symbol": "DMC",
     "type": "0x4c981f3ff786cdb9e514da897ab8a953647dae2ace9679e8358eec1e3e8871ac::dmc::DMC",
