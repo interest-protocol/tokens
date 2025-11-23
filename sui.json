@@ -733,13 +733,6 @@
     "type": "0x8574383098c964bf0b95b16f3f4f6d7e94d35680264fb5210d4977a97b85aca7::pawtato_coin_crystal::PAWTATO_COIN_CRYSTAL"
   },
   {
-    "name": "Pawtato Crystal",
-    "decimals": 9,
-    "symbol": "CRYSTAL",
-    "logoUrl": "https://img.pawtato.app/land/_resources/crystal.png",
-    "type": "0x8574383098c964bf0b95b16f3f4f6d7e94d35680264fb5210d4977a97b85aca7::pawtato_coin_crystal::PAWTATO_COIN_CRYSTAL"
-  },
-  {
     "name": "Toilet Dust",
     "decimals": 6,
     "symbol": "Toilet",
