@@ -601,14 +601,14 @@
   },
   {
     "name": "Cassius Thundercock",
-    "decimals": 6,
+    "decimals": 9,
     "symbol": "CASSIUS",
     "logoUrl": "https://suivision.xyz/images/coin-default.png",
     "type": "0xdf76e49e7e8aea6800d428a2b3091d2f14a1be160614f85ed061c4bdc7b5a4d8::cassius::CASSIUS"
   },
   {
     "name": "SuiAI",
-    "decimals": 9,
+    "decimals": 6,
     "symbol": "SUAI",
     "logoUrl": "https://api.suiai.fun/uploads/suai_logo.png",
     "type": "0xbc732bc5f1e9a9f4bdf4c0672ee538dbf56c161afe04ff1de2176efabdf41f92::suai::SUAI"
@@ -653,7 +653,7 @@
     "decimals": 6,
     "symbol": "Koduck",
     "logoUrl": "https://raw.githubusercontent.com/IkutaYuki/koduckonsui/main/Koduck%20Logo%20Pick.PNG",
-    "type": "0x30b00d05212f2de3e7bf6f8cbd79979d1b68ccc29eef1b34d4f1f25615b4b5c0::bork::BORK"
+    "type": "0x6fee0f4d3e36392531550e1afd2bd879b1326959b2d4870eb7ccea9c69bc144f::koduck::KODUCK"
   },
   {
     "name": "Blast Wheels",
