@@ -894,7 +894,7 @@
     "name": "Dripward",
     "symbol": "DRIP",
     "decimals": 9,
-    "logoUrl": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/Dripwardmeme.jpg/public"
+    "logoUrl": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/Dripwardmeme.jpg/public",
     "type": "0x9eed28fc98688a799fe51aa6ed39b851bd09d950fc785b2d7c9f543796254631::drip::DRIP"
   },
   {
